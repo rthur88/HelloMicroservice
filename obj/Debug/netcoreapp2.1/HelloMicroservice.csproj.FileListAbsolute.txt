@@ -1,0 +1,11 @@
+C:\Study\Git\HelloMicroservice\bin\Debug\netcoreapp2.1\HelloMicroservice.deps.json
+C:\Study\Git\HelloMicroservice\bin\Debug\netcoreapp2.1\HelloMicroservice.runtimeconfig.json
+C:\Study\Git\HelloMicroservice\bin\Debug\netcoreapp2.1\HelloMicroservice.runtimeconfig.dev.json
+C:\Study\Git\HelloMicroservice\bin\Debug\netcoreapp2.1\HelloMicroservice.dll
+C:\Study\Git\HelloMicroservice\bin\Debug\netcoreapp2.1\HelloMicroservice.pdb
+C:\Study\Git\HelloMicroservice\obj\Debug\netcoreapp2.1\HelloMicroservice.csprojAssemblyReference.cache
+C:\Study\Git\HelloMicroservice\obj\Debug\netcoreapp2.1\HelloMicroservice.csproj.CoreCompileInputs.cache
+C:\Study\Git\HelloMicroservice\obj\Debug\netcoreapp2.1\HelloMicroservice.AssemblyInfoInputs.cache
+C:\Study\Git\HelloMicroservice\obj\Debug\netcoreapp2.1\HelloMicroservice.AssemblyInfo.cs
+C:\Study\Git\HelloMicroservice\obj\Debug\netcoreapp2.1\HelloMicroservice.dll
+C:\Study\Git\HelloMicroservice\obj\Debug\netcoreapp2.1\HelloMicroservice.pdb
